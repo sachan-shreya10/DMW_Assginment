@@ -7,7 +7,7 @@
  
 #### The check.csv file was used to run the algorithm on demo data.
 
-#### Submitted by :-
-Shreya Sheel Sachan 
-1913114 
-BTBTC19088
+Submitted by :-
+#### Shreya Sheel Sachan 
+#### 1913114 
+#### BTBTC19088
