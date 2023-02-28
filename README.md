@@ -6,3 +6,7 @@
  3. The code outputs the final frequent subsets and takes minimum support as input from  user.
  
 #### The check.csv file was used to run the algorithm on demo data.
+
+####Shreya Sheel Sachan
+####1913114
+####BTBTC19088
